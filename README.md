@@ -8,9 +8,8 @@
     🔵 Them most important part about this project it is fully responsive of nature and use an api called the "themealdb" to fetch all the dishes which you want to     search.
     🔵 It also redirects users to a youtube videos for the receipe of dishes which you want.
     
-    <hr></hr>
     
-    📌 # Built-With:-
+   # 📌 Built-With:-
         
         🔷 HTML
         🔷 CSS
